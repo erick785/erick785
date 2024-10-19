@@ -14,4 +14,4 @@
 
 [![Lorin-github](https://github-readme-stats.vercel.app/api?username=erick785)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Lorin-github](https://github-profile-trophy.vercel.app/?username=erick785)](https://github.com/ryo-ma/github-profile-trophy&row=2)
+[![Lorin-github](https://github-profile-trophy.vercel.app/?username=erick785)](https://github.com/ryo-ma/github-profile-trophy&row=2&column=4&no-frame=true)
