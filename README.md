@@ -15,9 +15,9 @@
   <br/>
 </p>
   <br/>
-<p>  📣 How to reach me :<br/>
+<!-- <p>  📣 How to reach me :<br/>
   <a href="mailto:yerick785@gmail.com?subject=[GitHub]%20🔥%20Make%20Contract&body=Hi%20Erick%2C%0A%0A"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-</p>
+</p> -->
 
 [![Lorin-github](https://github-profile-trophy.vercel.app/?username=erick785&theme=onedark&column=-1&no-frame=true)](https://github-profile-trophy.vercel.app/?username=erick785&theme=onedark&column=-1&no-frame=true)
 
