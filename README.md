@@ -4,7 +4,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&width=435&lines=Is+it+a+bug+or+a+feature%3F;That's+for+the+users+to+decide." alt="Typing SVG" /></a>
 </div>
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=erick785&show_icons=true&theme=onedark"/>
+  <!-- <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=erick785&show_icons=true&theme=onedark"/> -->
   <p>
     - 🔭 I’m currently working on blockchain projects, focusing on the TON blockchain. <br/>
     - 🌱 I’m currently learning more about the TON blockchain and web app some tings . <br/>
@@ -19,7 +19,7 @@
   <a href="mailto:yerick785@gmail.com?subject=[GitHub]%20🔥%20Make%20Contract&body=Hi%20Erick%2C%0A%0A"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 </p> -->
 
-[![Lorin-github](https://github-profile-trophy.vercel.app/?username=erick785&theme=onedark&column=-1&no-frame=true)](https://github-profile-trophy.vercel.app/?username=erick785&theme=onedark&column=-1&no-frame=true)
+<!-- [![Lorin-github](https://github-profile-trophy.vercel.app/?username=erick785&theme=onedark&column=-1&no-frame=true)](https://github-profile-trophy.vercel.app/?username=erick785&theme=onedark&column=-1&no-frame=true) -->
 
 # Skills
 
